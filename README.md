@@ -1,2 +1,2 @@
 # HoraDeCuidar
-Aplicativo para ajudar idosos/cuidadores a lembrar de remédios e hidratação, open source
+Aplicativo para ajudar idosos/cuidadores a lembrarem de remédios e hidratação, open source
